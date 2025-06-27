@@ -1723,8 +1723,6 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.config.xml \
     android.hardware.security.keymint-service-qti.xml \
     android.hardware.usb@1.2-service.xml \
-    c2_manifest_vendor.xml \
-    c2_manifest_vendor_audio.xml \
     deviceinfo-saidl.xml \
     manifest_android.hardware.drm-service.widevine.xml \
     manifest_non_qmaa.xml \
